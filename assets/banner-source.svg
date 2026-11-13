@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos Luis Rojas Aragonés — Technology Entrepreneur</title>
+  <desc id="desc">Building AI-native products and the teams behind them. San Carlos, Costa Rica. Dark navy, blue, cyan, and violet design matching crojasaragonez.github.io.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b0f19"/>
+      <stop offset="1" stop-color="#080b12"/>
+    </linearGradient>
+    <radialGradient id="blue-glow">
+      <stop stop-color="#4f8cff" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#4f8cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet-glow">
+      <stop stop-color="#7c5cff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2=".25">
+      <stop offset=".08" stop-color="#f8fafc"/>
+      <stop offset=".7" stop-color="#83adff"/>
+      <stop offset="1" stop-color="#4f8cff"/>
+    </linearGradient>
+    <linearGradient id="line">
+      <stop stop-color="#35d6ff"/>
+      <stop offset=".5" stop-color="#4f8cff"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="480" rx="2" fill="url(#background)"/>
+  <ellipse cx="100" cy="0" rx="720" ry="490" fill="url(#blue-glow)"/>
+  <ellipse cx="1170" cy="200" rx="620" ry="510" fill="url(#violet-glow)"/>
+  <g fill="none" stroke="#273244" stroke-width="1">
+    <path d="M1006 0v480M1142 0v480M910 96h370M910 232h370M910 368h370" opacity=".35"/>
+    <rect x="954" y="96" width="188" height="188" rx="2"/>
+    <rect x="1006" y="148" width="188" height="188" rx="2" stroke="#4f8cff" stroke-opacity=".42"/>
+    <rect x="1058" y="200" width="188" height="188" rx="2" stroke="#7c5cff" stroke-opacity=".35"/>
+    <path d="M1006 148h52v52h52" stroke="#35d6ff" stroke-opacity=".6"/>
+  </g>
+  <g fill="#35d6ff">
+    <rect x="1002" y="144" width="8" height="8" rx="1"/>
+    <rect x="1106" y="196" width="8" height="8" rx="1"/>
+  </g>
+  <rect x="56" y="53" width="20" height="3" fill="#35d6ff"/>
+  <g font-family="Geist" fill="#f8fafc">
+    <text x="88" y="59" font-size="14" font-weight="600" letter-spacing="2.1" fill="#35d6ff">TECHNOLOGY ENTREPRENEUR</text>
+    <text x="56" y="157" font-size="72" font-weight="800" letter-spacing="-2" fill="url(#name)">Carlos Luis</text>
+    <text x="56" y="235" font-size="72" font-weight="800" letter-spacing="-2" fill="url(#name)">Rojas Aragonés</text>
+    <text x="59" y="300" font-size="28" font-weight="500">Building AI-native products</text>
+    <text x="59" y="338" font-size="28" font-weight="500">and the teams behind them.</text>
+    <text x="59" y="433" font-size="16" font-weight="400" fill="#94a3b8">San Carlos, Costa Rica</text>
+    <text x="924" y="433" font-size="16" font-weight="500" fill="#94a3b8">crojasaragonez.github.io</text>
+  </g>
+  <path d="M59 374h770" stroke="url(#line)" stroke-width="2"/>
+  <rect x=".5" y=".5" width="1279" height="479" rx="2" fill="none" stroke="#273244"/>
+</svg>
