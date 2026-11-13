@@ -29,13 +29,13 @@ At Golabs, I helped scale the organization to **100+ engineers across LATAM** an
 
 ### Open source contributions
 
-| Project | Contribution | Year |
+| Project | Description | Year contributed |
 | :--- | :--- | :--- |
-| [RuboCop](https://github.com/rubocop/rubocop/pull/7317) | Introduced the Pacman formatter, including tests. | 2019 |
-| [Lighthouse](https://github.com/nuwave/lighthouse/pull/2138) | Added `columns` and `distinct` arguments to the GraphQL `@count` directive. | 2022 |
-| [YaST](https://github.com/yast/yast-services-manager/pull/109) | Fixed window-close handling in Services Manager. | 2015 |
-| [Laravel AI SDK](https://github.com/laravel/ai/pull/1231) | Added Gemini Decisions API support, provider integration, and tests. | 2026 |
-| [RSpec Pacman Formatter](https://github.com/go-labs/rspec_pacman_formatter) | Built the initial formatter and improved colors, CI compatibility, and terminal layout. | 2015–2019 |
+| [RuboCop](https://github.com/rubocop/rubocop/pull/7317) | A Ruby static code analyzer and formatter based on the community Ruby style guide. | 2019 |
+| [Lighthouse](https://github.com/nuwave/lighthouse/pull/2138) | A framework for building GraphQL APIs with Laravel. | 2022 |
+| [YaST](https://github.com/yast/yast-services-manager/pull/109) | A YaST library for configuring systemd services and targets. | 2015 |
+| [Laravel AI SDK](https://github.com/laravel/ai/pull/1231) | A unified Laravel API for working with AI providers including OpenAI, Anthropic, and Gemini. | 2026 |
+| [RSpec Pacman Formatter](https://github.com/go-labs/rspec_pacman_formatter) | A Pacman-style formatter for RSpec test output. | 2015–2019 |
 
 ### Ideas I'm exploring
 
