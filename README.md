@@ -27,6 +27,16 @@ At Golabs, I helped scale the organization to **100+ engineers across LATAM** an
 | [Presentations](https://github.com/crojasaragonez/presentations) | Technical talks and teaching materials on software engineering, cloud systems, and AI. |
 | [Vue Rubik's Cube](https://github.com/crojasaragonez/vue-rubik-cube) | A Rubik's Cube built with Vue. |
 
+### Open source contributions
+
+| Project | Contribution | Year |
+| :--- | :--- | :--- |
+| [RuboCop](https://github.com/rubocop/rubocop/pull/7317) | Introduced the Pacman formatter, including tests. | 2019 |
+| [Lighthouse](https://github.com/nuwave/lighthouse/pull/2138) | Added `columns` and `distinct` arguments to the GraphQL `@count` directive. | 2022 |
+| [YaST](https://github.com/yast/yast-services-manager/pull/109) | Fixed window-close handling in Services Manager. | 2015 |
+| [Laravel AI SDK](https://github.com/laravel/ai/pull/1231) | Added Gemini Decisions API support, provider integration, and tests. | 2026 |
+| [RSpec Pacman Formatter](https://github.com/go-labs/rspec_pacman_formatter) | Built the initial formatter and improved colors, CI compatibility, and terminal layout. | 2015–2019 |
+
 ### Ideas I'm exploring
 
 - [Digital Twins for Private Investment Funds](https://crojasaragonez.github.io/blog/digital-twins-for-private-investment-funds/)
