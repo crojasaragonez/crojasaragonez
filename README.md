@@ -23,9 +23,9 @@ At Golabs, I helped scale the organization to **100+ engineers across LATAM** an
 
 | Project | What you'll find |
 | :--- | :--- |
-| [Text-to-SQL RAG](https://github.com/crojasaragonez/text_to_sql_rag_app) | A RAG application for querying databases in natural language. |
 | [Light Service for PHP](https://github.com/crojasaragonez/light-service) | A PHP port of the Ruby LightService library. |
-| [Personal website](https://github.com/crojasaragonez/crojasaragonez.github.io) | The Astro site behind my writing, talks, and venture stories. |
+| [Presentations](https://github.com/crojasaragonez/presentations) | Technical talks and teaching materials on software engineering, cloud systems, and AI. |
+| [Vue Rubik's Cube](https://github.com/crojasaragonez/vue-rubik-cube) | A Rubik's Cube built with Vue. |
 
 ### Ideas I'm exploring
 
